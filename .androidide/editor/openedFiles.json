@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WNote/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 968,
+          "line": 27
+        },
+        "start": {
+          "column": 0,
+          "index": 968,
+          "line": 27
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WNote/app/src/main/java/com/example/wnote/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1252,
+          "line": 38
+        },
+        "start": {
+          "column": 1,
+          "index": 1252,
+          "line": 38
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WNote/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 588,
+          "line": 18
+        },
+        "start": {
+          "column": 11,
+          "index": 588,
+          "line": 18
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/WNote/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 52,
+          "line": 5
+        },
+        "start": {
+          "column": 0,
+          "index": 52,
+          "line": 5
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/WNote/app/src/main/res/layout/activity_main.xml"
+}
